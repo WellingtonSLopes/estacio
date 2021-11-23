@@ -11,3 +11,8 @@ function testeIV() {
 
   console.log("Teste IV")
 }
+
+function testeIII() {
+
+  console.log("Teste III")
+}
